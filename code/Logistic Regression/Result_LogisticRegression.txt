@@ -1,0 +1,15 @@
+Accuracy is:  0.625641025641 
+
+ROC Score is:  0.5416 
+
+Confusion matrix: 
+[[  7  63]
+ [ 10 115]] 
+
+Classification Report: 
+             precision    recall  f1-score   support
+
+          0       0.41      0.10      0.16        70
+          1       0.65      0.92      0.76       125
+
+avg / total       0.56      0.63      0.54       195
